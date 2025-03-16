@@ -6,12 +6,8 @@ layout: home
 ---
 
 # Bill's Tutorial
----
 
 
-  
-    
-      
 
 I followed [Bill Raymond's video tutorial](https://www.youtube.com/watch?v=UKB9ylw0G4U) and have everything working. You can find all the commands [here](https://github.com/BillRaymond/install-jekyll-apple-silicon). I prefer typing them myself but it's a good source for reference.
 
